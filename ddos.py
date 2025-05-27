@@ -5,8 +5,8 @@ import sys
 import os
 
 
-#fake ddos
-#buat prank temen 
+#Selamat anda tolol
+#percaya apa lu ama termos sattt bangsat
 #created by mr.dh0r_45
 
 
